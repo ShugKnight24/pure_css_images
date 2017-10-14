@@ -7,3 +7,11 @@ I am doing this as a part of @P1xt's prep for ["Suck Less at CSS" November Chall
 Specifically, this it was recommended in the accompanying [mini challenge blog post](https://medium.com/p1xts-blog/mini-challenge-prep-for-suck-less-at-css-november-b04b30799ef6).
 
 I will update this repository with my work for the course as well as the additional projects listed in the mini challenge blog post.
+
+### Contents
+
+#### Lesson 1
+
+- [CSS Koala](/css_koala)
+
+  ![CSS Koala Preview Image](img/css_koala.png)
